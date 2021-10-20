@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url(../tipografias/Barlow/Barlow-Black.ttf);
+    
+  }
+body{
+    font-family: Barlow;
+    margin: 100px;
+    background: linear-gradient( #8CCDC8, #8C87C0);
+    color: black;
+
+    }
+
+
+h1 {
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+h2 {
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}
+ 
+h3 {
+    font-family: Barlow;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-right: 450px;
+    
+}
+ 
+img { 
+    width: 350px;
+    margin-left: 550px;
+    float: right;
+    margin: 20px;
+    margin-top: 0%;
+
+
+}
+
+#navegador li{
+    list-style-type: none;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: right;
+    display: inline;
+    text-decoration: none;
+ }
